@@ -4,15 +4,15 @@ LITTLE ABOUT ME PLACEHOLDER
 
 LINK TO OTHER PROJECTS / ORGS PLACEHOLDER
 
-🔭 Currently working on: PLACEHOLDER
+🔭 Currently working on: Fullstack Web Development
 
 🌱 Currently learning: PLACEHOLDER
 
-💬 Ask me about: PLACEHOLDER
+💬 Ask me about: Sales, Copywrighting, Business, Client Aqusitions
 
 📫 How to reach me: PLACEHOLDER
 
-⚡ Fun fact: PLACEHOLDER
+⚡ Fun fact: I have an insane obsesion with suits
 
 PLACEHOLDER
 
